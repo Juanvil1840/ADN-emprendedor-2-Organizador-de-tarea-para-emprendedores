@@ -42,19 +42,27 @@ Con este sistema, el usuario puede:
  
   - 3. Salir
 
-## Ejemplo de uso: 
---- Menú Principal ---
-1. Agregar tarea
-2. Desplegar tareas
-3. Salir
-   
+6 Ejemplo de uso 
+
+```
+--- MENÚ ---
+1. Crear tarea individual
+2. Crear proyecto (Subbloque)
+3. Crear bloque de tiempo
+4. Cargar desde archivo
+5. Consultar disponibilidad
+6. Guardar y salir
+7. Desplegar tareas
 Seleccione una opción: 1
-
 Ingrese el nombre de la tarea: Redactar propuesta
-
 Ingrese la fecha (dd/MM/yyyy): 15/08/2025
-
 Ingrese la prioridad (Alta, Media, Baja): Alta
-
 Tarea agregada correctamente.
+Visualizando las tareas:
+--- LISTA DE TODAS LAS TAREAS ---
+Terminar trabajo
+StartUp idea/buscar inversionistas
+universidad/calculo diferencial /hacer derivadas
+universidad/calculo diferencial /derivar
+
 
