@@ -37,10 +37,22 @@ Con este sistema, el usuario puede:
    java Principal
 5 Usa el menu para:
   - 1. Agregar tarea
+       Permite agregar una tarea individual que se debe realizar.
 
-  - 2. Desplegar tareas
- 
-  - 3. Salir
+  - 2. Crear proyecto
+       Permite agrupar una lista de tareas bajo un proyecto común, o tener un bloque de
+       con un conjunto de tareas.
+  - 3. Crear bloque de tiempo
+       Permite tener un conjunto de proyectos que se van a repetir semanalmente en un
+       periodo de tiempo.
+   - 4. Cargar desde archivo
+       permite cargar desde un archivo de texto diferentes tareas que ya se han hecho anteriormente.
+   - 5. Consultar disponibilidad
+       permite ingresar una fecha y verificar si ya existe otra asignación en ese momento.
+   - 6. Guardar y salir
+        guarda las tareas registradas y se sale del programa.
+   - 7. Desplegar tareas
+        despliega todas las tareas existentes en el momento.
 
 6 Ejemplo de uso 
 
