@@ -47,10 +47,14 @@ Con este sistema, el usuario puede:
 1. Agregar tarea
 2. Desplegar tareas
 3. Salir
+   
 Seleccione una opción: 1
 
 Ingrese el nombre de la tarea: Redactar propuesta
+
 Ingrese la fecha (dd/MM/yyyy): 15/08/2025
+
 Ingrese la prioridad (Alta, Media, Baja): Alta
+
 Tarea agregada correctamente.
 
