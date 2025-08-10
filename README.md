@@ -1,4 +1,4 @@
-#  Gestor de Tareas Semanales para Emprendedores
+#  Gestor de Tareas para Emprendedores
 
 ##  Descripción
 Esta aplicación creada en **Java** ayuda a emprendedores a **organizar, visualizar y priorizar** sus tareas semanales.  
