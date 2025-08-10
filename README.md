@@ -12,7 +12,7 @@ Con este sistema, el usuario puede:
 
 ---
 
-## 🛠️ Stack y Herramientas
+## Stack y Herramientas
 - **Lenguaje:** Java 17  
 - **IDE sugeridos:** IntelliJ IDEA, NetBeans o VS Code  
 - **Ejecución:** Consola de comandos  
